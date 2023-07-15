@@ -1,0 +1,17 @@
+Title: BallScoreControl - A Simple, Interactive JavaFX Game
+
+Overview:
+
+BallScoreControl is a fun, interactive game developed using the JavaFX framework. The goal is simple - click the moving ball to earn points!
+
+Instructions to play:
+
+1. Start the game: Upon launching the application, click on the "Start" button located at the top of the game window to begin.
+
+2. Score points: A green ball will appear on the screen and start moving randomly within the game area. Your goal is to click on this moving ball within 60 seconds. Each successful click earns you a point, and the score is displayed at the top left corner of the game window. Be careful! If you click anywhere except on the ball, you will lose a point!
+
+3. Earn hearts: As you accumulate points, keep an eye on your score. Every time your score is a multiple of 10, a heart icon will appear at the top of the game screen. The more hearts you earn, the better you're doing.
+
+4. Change ball color: Want to switch things up? You can change the color of the moving ball to Red, Purple, Blue, Yellow, or Black. This color control pane is located on the left side of the game window. Simply select your preferred color, and the ball will change color accordingly.
+
+5. Game Over: When the time runs out, the game ends. But don't worry, if you want to play again, just click the "Start" button and the game will reset, and you can strive to beat your previous score!
